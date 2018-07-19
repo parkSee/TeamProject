@@ -8,7 +8,10 @@ HRESULT mainGame::init(void)
 {
 	gameNode::init(TRUE);
 	
+	//변동사항이 있습니다
+	//테스트를 시작합니다
 
+	int a;
 	return S_OK;
 }
 
