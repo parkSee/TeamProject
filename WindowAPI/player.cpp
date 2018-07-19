@@ -9,7 +9,7 @@ HRESULT player::init(void)
 	int a;
 	int b; 
 	//응주바보
-
+	//소스트리 어려워요...
 	return S_OK;
 }
 
