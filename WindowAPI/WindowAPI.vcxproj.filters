@@ -33,6 +33,9 @@
     <Filter Include="GameFramework2D\Bullet">
       <UniqueIdentifier>{b9eb04df-28c2-4810-892e-c2bfca8911fd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="MainGame\이응주필터">
+      <UniqueIdentifier>{ab3369b3-748a-4547-bf9e-3459baf5ce53}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="commonMacroFunction.h">
@@ -74,6 +77,9 @@
     <ClInclude Include="cameraManager.h">
       <Filter>GameFramework2D\Manager</Filter>
     </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -108,6 +114,9 @@
     </ClCompile>
     <ClCompile Include="cameraManager.cpp">
       <Filter>GameFramework2D\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
