@@ -11,6 +11,9 @@ HRESULT mainGame::init(void)
 	//변동사항이 있습니다
 	//테스트를 시작합니다
 	 
+	//오늘안에 바꾸겟습니다
+
+
 	//csyADD [ 플레이어 이동용 좌표 변수 추가]
 	return S_OK;
 }
