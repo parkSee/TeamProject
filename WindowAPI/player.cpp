@@ -4,7 +4,7 @@
 HRESULT player::init(void)
 {
 	
-
+	//변동사항이 있습니다 여러분
 
 
 	return S_OK;
