@@ -6,7 +6,7 @@
 //=============================================================
 HRESULT mainGame::init(void)
 {
-	gameNode::init(TRUE);
+	gameNode::init();
 	
 	//변동사항이 있습니다
 	//테스트를 시작합니다

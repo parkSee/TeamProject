@@ -77,8 +77,8 @@
     <ClInclude Include="cameraManager.h">
       <Filter>GameFramework2D\Manager</Filter>
     </ClInclude>
-    <ClInclude Include="enemy.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="enemyTT.h">
+      <Filter>MainGame\이응주필터</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -115,8 +115,8 @@
     <ClCompile Include="cameraManager.cpp">
       <Filter>GameFramework2D\Manager</Filter>
     </ClCompile>
-    <ClCompile Include="enemy.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="enemyTT.cpp">
+      <Filter>MainGame\이응주필터</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
