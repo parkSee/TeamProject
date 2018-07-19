@@ -7,7 +7,9 @@ class mainGame : public gameNode
 {
 private:
 	player * _player;	//플레이어 클래스 선언
-	
+	int a;
+	int b;
+	int c;
 
 public:
 	HRESULT init(void);
